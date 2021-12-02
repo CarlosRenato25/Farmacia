@@ -1,0 +1,14 @@
+﻿C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClaseAdministradora.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClaseCategorias.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClaseClientes.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClaseConexion.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClaseDetallePedido.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClaseMedicamentos.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClasePedido.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClasePrecentacion.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClaseProveedor.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\ClasFarmaceutico.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\My Project\AssemblyInfo.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\My Project\Resources.resx
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\My Project\Application.myapp
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaDatos\My Project\Settings.settings

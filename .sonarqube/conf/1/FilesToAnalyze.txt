@@ -1,0 +1,12 @@
+﻿C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\NegocioClaseAdministradora.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\NegocioclaseCategorias.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\My Project\AssemblyInfo.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\NegocioClaseCliente.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\NegocioClaseFarmaceutico.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\NegocioClaseMedicamentos.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\NegocioClasePedido.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\NegocioClasePrecentacion.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\NegocioClaseProveedores.vb
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\My Project\Resources.resx
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\My Project\Application.myapp
+C:\Users\RENATO\Desktop\Farmacia\Farmacia\FarmaciaCapaNegocio\My Project\Settings.settings
